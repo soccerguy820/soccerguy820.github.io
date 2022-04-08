@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/Copyright.pdf)
+### [Copyright](/pdf/Copyright.pdf)
 
 -   **Class:**  
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/NetworkingPaperFinal.pdf)
+### [Intellectual Property Rights?](/pdf/NetworkingPaperFinal.pdf)
 
 -   **Class:** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/DataStructureEthicsPaper.pdf)
+### [Autonomous Inventions](/pdf/DataStructureEthicsPaper.pdf)
 
 -   **Class:** 
 -   **Grade:**
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/hangmantrivia.pdf)
+### [Hangman Trivia](/pdf/hangmantrivia.pdf)
 
 - **Class:** 
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/Hack_on_St_Jude.pdf)
+### [Hack on St. Jude](/pdf/Hack_on_St_Jude.pdf)
 
 - **Class:** 
 - **Grade:**
