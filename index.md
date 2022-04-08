@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class:** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/Data Structure Ethics Paper.pdf)
+### [Paper 3 Title](/pdf/DataStructureEthicsPaper.pdf)
 
 -   **Class:** 
 -   **Grade:**
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/hangman trivia.pdf)
+### [Presentation 1 Title](/pdf/hangmantrivia.pdf)
 
 - **Class:** 
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/Hack on St.Jude.pdf)
+### [Presentation 2 Title](/pdf/Hack_on_St_Jude.pdf)
 
 - **Class:** 
 - **Grade:**
