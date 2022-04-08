@@ -33,18 +33,18 @@ Ethics Papers
 
 ### [Copyright](/pdf/Copyright.pdf)
 
--   **Class:**CSCI 301 Survey of Scripting Languages  
--   **Grade:**A
+-   **Class:** CSCI 301 Survey of Scripting Languages  
+-   **Grade:** A
 
 ### [Intellectual Property Rights?](/pdf/NetworkingPaperFinal.pdf)
 
--   **Class:**CSCI 332 Applied Networking 
--   **Grade:**A
+-   **Class:** CSCI 332 Applied Networking 
+-   **Grade:** A
 
 ### [Autonomous Inventions](/pdf/DataStructureEthicsPaper.pdf)
 
--   **Class:**CSCI 315 Data Structure 
--   **Grade:**B - Unverified
+-   **Class:** CSCI 315 Data Structure 
+-   **Grade:** B - Unverified
 
 ---
 
@@ -53,14 +53,14 @@ Presentations
 
 ### [Hangman Trivia](/pdf/hangmantrivia.pdf)
 
-- **Class:**CSCI 325 Object-Oriented Programming 
-- **Grade:**A
+- **Class:** CSCI 325 Object-Oriented Programming 
+- **Grade:** A
 
 
 ### [Hack on St. Jude](/pdf/Hack_on_St_Jude.pdf)
 
-- **Class:**CSCI 301 Survey of Scripting Languages 
-- **Grade:**A
+- **Class:** CSCI 301 Survey of Scripting Languages 
+- **Grade:** A
 
 ---
 
