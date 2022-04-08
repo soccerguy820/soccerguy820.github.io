@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:pesnow@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -33,18 +33,18 @@ Ethics Papers
 
 ### [Copyright](/pdf/Copyright.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**CSCI 301 Survey of Scripting Languages  
+-   **Grade:**A
 
 ### [Intellectual Property Rights?](/pdf/NetworkingPaperFinal.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:**CSCI 332 Applied Networking 
+-   **Grade:**A
 
 ### [Autonomous Inventions](/pdf/DataStructureEthicsPaper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:**CSCI 315 Data Structure 
+-   **Grade:**B - Unverified
 
 ---
 
@@ -53,14 +53,14 @@ Presentations
 
 ### [Hangman Trivia](/pdf/hangmantrivia.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:**CSCI 325 Object-Oriented Programming 
+- **Grade:**A
 
 
 ### [Hack on St. Jude](/pdf/Hack_on_St_Jude.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:**CSCI 301 Survey of Scripting Languages 
+- **Grade:**A
 
 ---
 
