@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Hangman Trivia](/pdf/hangmantrivia.pdf)
+### [Hangman Trivia](/pdf/hangman_trivia.pdf)
 
 - **Class:** CSCI 325 Object-Oriented Programming 
 - **Grade:** A
