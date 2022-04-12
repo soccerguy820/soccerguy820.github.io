@@ -20,7 +20,7 @@ How to compile and run the project.
 For Assembly:
 ```bash
 cd ./[file name here]
-nasm -felf64 [assembly code here] && gcc -no-pie -fPIC hello-printf.o && ./a.out
+nasm -felf64 [assembly code here] && gcc -no-pie -fPIC [name here].o && ./a.out
 ```
 
 For Verilog:
