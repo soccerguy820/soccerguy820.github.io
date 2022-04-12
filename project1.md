@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Python
 ===============
 
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [soccerguy820/csci-301-spring-2019](https://github.com/soccerguy820/csci-301-spring-2019)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
