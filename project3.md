@@ -23,28 +23,26 @@ Depending on where you saved the files that are saved in the repository. It shou
 
 Cents and Sense is an application that is to assist any users in determining how they handle their money well or not. 
 First, it will require the user to enter a username and password if they are new to the website. After he/she has finished registering their new acccount
-then they can login with same username and password. After a successful login they will be taken to the home page.
+then they can login with same username and password (Figure 1 and 2). After a successful login they will be taken to the home page.
 It will ask ten questions each with five answers in the form of radio buttons. All of the answers have a different value assigned to them that determines 
-if they handled their money well or not for each questions. The values to determine the user’s answers are very bad, bad, neutral, good, and very good.
-After the user answers all of the questions then they will get their score.
+if they handled their money well or not for each questions (Figure 3). The values to determine the user’s answers are very bad, bad, neutral, good, and very good.
+If the user tries to click the submit button before answering all of the questions then it will notify the user to answer all of the questions so he/she can get the result (Figure 4).
+After the user answers all of the questions then they will get their score (Figure 5).
 
-![screenshot](images/Terminal.JPG)  
-Fig 1. The terminal screen on Ubuntu
+![screenshot](images/HomePage.JPG)  
+Fig 1. The home page or login page of the website.
 
-![screenshot](images/lab01screenshot.JPG)  
-Fig 2. Lab01 Shell Script code execution.
+![screenshot](images/FailedLogin.JPG)  
+Fig 2. The error message when a login was unsuccessful.
 
-![screenshot](images/lab03screenshot.JPG)  
-Fig 3. Lab03 Perl code execution.
+![screenshot](images/Questions.JPG)  
+Fig 3. The survey page with questions for the user.
 
-![screenshot](images/lab04screenshot.JPG)  
-Fig 4. Lab04 Perl code execution.
+![screenshot](images/Unsubmitted.JPG)  
+Fig 4. A notification for the user to answer all questions.
 
-![screenshot](images/sortedTXT.JPG)  
-Fig 5. Lab04 Ordered list file text.
-
-![screenshot](images/rightTriangle.JPG)  
-Fig 6. Lab05 Python code execution.
+![screenshot](images/Result.JPG)  
+Fig 5. The results given after all answers are given by the user.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
