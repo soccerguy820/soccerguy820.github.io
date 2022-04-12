@@ -36,10 +36,10 @@ Fig 1. The launch screen
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/gameOver.JPG)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Feedback when the player loses.
 
 ![screenshot](images/gameWin.JPG)  
-Fig 4. Feedback when an error occurs.
+Fig 4. Feedback when a player wins the game.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
