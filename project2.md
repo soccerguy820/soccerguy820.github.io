@@ -35,7 +35,7 @@ Fig 1. The launch screen
 ![screenshot](images/entry.JPG)  
 Fig 2. Example output after input is processed.
 
-![screenshot](gameOver.JPG)  
+![screenshot](images/gameOver.JPG)  
 Fig 3. Feedback when an error occurs.
 
 ![screenshot](images/gameWin.JPG)  
