@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Hangman Trivia | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/entry.JPG)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
