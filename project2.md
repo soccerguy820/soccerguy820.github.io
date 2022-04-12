@@ -29,14 +29,17 @@ If the user guesses all of the words in the correct order than they will be prom
 The codes done by each people are detailed in the files and are also detailed in the Powerpoint that is also in the portfolio. To find the Powerpoint, it is found at the bottom with presentations named, "Hangman Trivia." It will give a detail to what each method will do once
 the project is debugged and run.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Start.JPG)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/entry.JPG)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](gameOver.JPG)  
 Fig 3. Feedback when an error occurs.
+
+![screenshot](images/gameWin.JPG)  
+Fig 4. Feedback when an error occurs.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
