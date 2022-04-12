@@ -51,20 +51,32 @@ Lab04.asm is assembly for the following:
  Verilog lab04 is writing NAND gates to form an SR Latch.
  Verilog lab05 is writing more NAND gates in combination with a SR Latch to form a Gated SR Latch.
 
-![screenshot](images/HomePage.JPG)  
-Fig 1. The home page or login page of the website.
+![screenshot](images/lab01shot.JPG)  
+Fig 1. The output(s) of lab01 assembly code.
 
-![screenshot](images/FailedLogin.JPG)  
-Fig 2. The error message when a login was unsuccessful.
+![screenshot](images/lab02shot.JPG)  
+Fig 2. The output(s) of lab02 assembly code.
 
-![screenshot](images/Questions.JPG)  
-Fig 3. The survey page with questions for the user.
+![screenshot](images/lab03shot.JPG)  
+Fig 3. The output(s) of lab03 assembly code.
 
-![screenshot](images/Unsubmitted.JPG)  
-Fig 4. A notification for the user to answer all questions.
+![screenshot](images/lab04shot.JPG)  
+Fig 4. The output(s) of lab04 assembly code.
 
-![screenshot](images/Result.JPG)  
-Fig 5. The results given after all answers are given by the user.
+![screenshot](images/vlab01shot.JPG)  
+Fig 5. The output(s) of lab01 verilog inputs.
+
+![screenshot](images/vlab02shot.JPG)  
+Fig 6. The output(s) of lab02 verilog inputs.
+
+![screenshot](images/vlab03shot.JPG)  
+Fig 7. The output(s) of lab03 verilog inputs.
+
+![screenshot](images/vlab04shot.JPG)  
+Fig 8. The output(s) of lab04 verilog inputs.
+
+![screenshot](images/vlab05shot.JPG)  
+Fig 9. The output(s) of lab05 verilog inputs.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
