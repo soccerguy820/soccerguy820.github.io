@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Cents and Sense | CSCI 434](project3)
 
-![Project 3 Thumbnail Name](images/Questions.jpg)
+![Project 3 Thumbnail Name](images/Questions.JPG)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
