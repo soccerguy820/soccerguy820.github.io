@@ -5,7 +5,7 @@ Shell Script, Perl, and Python
 
 -   **Class:** CSCI 301 - SURVEY OF SCRIPTING LANGUAGES
 -   **Grade:** A
--   **Language(s):** Python
+-   **Language(s):** Shell Script, Perl, and Python
 -   **Source Code Repository:** [soccerguy820/csci-301-spring-2019](https://github.com/soccerguy820/csci-301-spring-2019)  
     (Please [email me](mailto:pesnow@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -34,8 +34,6 @@ For Perl:
 cd ./project
 perl lab3.pl
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
