@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Cents and Sense Website
+Assembly Code and Verilog
 ===============
 
 -   **Class:** CSCI 330 - Computer Architecture
