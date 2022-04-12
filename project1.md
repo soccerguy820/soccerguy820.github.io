@@ -6,7 +6,7 @@ Shell Script, Perl, and Python
 -   **Class:** CSCI 301 - SURVEY OF SCRIPTING LANGUAGES
 -   **Grade:** A
 -   **Language(s):** Shell Script, Perl, and Python
--   **Source Code Repository:** [soccerguy820/csci-301-spring-2019](https://github.com/soccerguy820/csci-301-spring-2019)  
+-   **Source Code Repository:** [soccerguy820/csci-301](https://github.com/soccerguy820/csci-301)  
     (Please [email me](mailto:pesnow@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
