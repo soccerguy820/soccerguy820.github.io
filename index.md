@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Assembly Code and Verilog | CSCI 330](project4)
 
-![Project 4 Thumbnail Name](images/vlab02shot.jpg)
+![Project 4 Thumbnail Name](images/vlab02shot.JPG)
 
 ---
 
