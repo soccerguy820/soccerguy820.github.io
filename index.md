@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/entry.JPG)
 
 ---
-### [Project 3 Title | CSCI 325](project3)
+### [Cents and Sense | CSCI 434](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Questions.jpg)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
