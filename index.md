@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Shell Script, Perl, and Python | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/lab04screenshot.jpg)
+![Project 1 Thumbnail Name](images/lab04screenshot.JPG)
 
 ---
 ### [Hangman Trivia | CSCI 325](project2)
