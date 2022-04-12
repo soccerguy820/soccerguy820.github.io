@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Cyber Security (class of 2023)
   <br /><br />
-  [View My Resume](/pdf/PatrickSnow’sCollegeResume.pdf)
+  <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
 repository: "soccerguy820/soccerguy820.github.io"
 github_username:  soccerguy820 # update with your username
