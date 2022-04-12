@@ -11,23 +11,45 @@ Cents and Sense Website
 
 ## Project description
 
-Cents and Sense is an application that will grade on the user’s answers to several questions in regards to their handling of their money. It will be able to assist any users especially college students during their most stressful and tedious days by suggesting the user on whether they have been handling their money poorly or not. It was made to be a quick, simple, and efficient application so the user can easily determine how they have been handling their money. 
+This repository will consist of a couple assignments that utilized the languages known as Assembly machine code and Verilog. Each lab utilizes different languages to execute certain commands ranging from sorting out an assembly code executing certain commands to making gates with Verilog.
 
 ## How to compile and run the program
 
-How to run the project.
+How to compile and run the project.
 
-Depending on where you saved the files that are saved in the repository. It should be able to run with its file source. An example would be file:///C:/Users/snowg/Documents/CentsandSense2/index.html?
+For Assembly:
+```bash
+cd ./[file name here]
+nasm -felf64 [assembly code here] && gcc -no-pie -fPIC hello-printf.o && ./a.out
+```
+
+For Verilog:
+```bash
+cd ./[file name here]
+iverilog *.v && ./a.out
+```
+
 
 ## UI Design
 
-Cents and Sense is an application that is to assist any users in determining how they handle their money well or not. 
-First, it will require the user to enter a username and password if they are new to the website. After he/she has finished registering their new acccount
-then they can login with same username and password (Figure 1 and 2). After a successful login they will be taken to the home page.
-It will ask ten questions each with five answers in the form of radio buttons. All of the answers have a different value assigned to them that determines 
-if they handled their money well or not for each questions (Figure 3). The values to determine the user’s answers are very bad, bad, neutral, good, and very good.
-If the user tries to click the submit button before answering all of the questions then it will notify the user to answer all of the questions so he/she can get the result (Figure 4).
-After the user answers all of the questions then they will get their score (Figure 5).
+Lab01.asm writes "Hello from C library" and then prints an the integer 2022 to the console using a C library.
+Lab02.asm takes the sum of all the elements of array1 and array2 and prints the total sum.
+Lab03.asm finds the sum of all the elements of the array using a loop and prints the sum.
+Lab04.asm is assembly for the following:
+ int multadd(int y) {
+   int a;
+   a = 23;
+   return y * y + a;
+ }
+ int main() {
+     printf("%ld\n", example(33);
+ }
+ 
+ Verilog lab01.v is writing the NAND gate and the verilog inputs.
+ Verilog lab02.v is writing with multiple gates to form one model.
+ Verilog lab03.v is similar to lab02.v but trying to form a bigger model.
+ Verilog lab04 is writing NAND gates to form an SR Latch.
+ Verilog lab05 is writing more NAND gates in combination with a SR Latch to form a Gated SR Latch.
 
 ![screenshot](images/HomePage.JPG)  
 Fig 1. The home page or login page of the website.
