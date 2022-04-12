@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/Questions.JPG)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Assembly Code and Verilog | CSCI 330](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
