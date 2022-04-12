@@ -18,7 +18,7 @@ all of their chances.
 
 How to compile and run the project.
 
-Make sure to save the Java source file, right-click the project and choose Run or choose Run Project under the Run menu. Click Select Main Class. If more support is needed to run then click on this [link] (https://netbeans.apache.org/kb/docs/java/quickstart.html#:~:text=A%20Reference%20Guide.-,Running%20the%20Application,Congratulations!)
+Make sure to save the Java source file, right-click the project and choose Run or choose Run Project under the Run menu. Click Select Main Class. If more support is needed to run then click on this [link](https://netbeans.apache.org/kb/docs/java/quickstart.html#:~:text=A%20Reference%20Guide.-,Running%20the%20Application,Congratulations!)
 
 ## UI Design
 
